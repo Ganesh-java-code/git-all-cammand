@@ -4,6 +4,10 @@ and currently i am working in IT company.
 one
 two
 three
+<<<<<<< Updated upstream
 four
 five
 six
+=======
+four
+>>>>>>> Stashed changes
